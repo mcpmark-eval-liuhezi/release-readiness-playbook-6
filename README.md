@@ -1,2 +1,3 @@
-# release-readiness-playbook-6
-Release readiness checklists and runbooks
+# Release Readiness Playbook
+
+Short-term release readiness checklists and runbooks for quarter-end releases.
